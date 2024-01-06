@@ -1,4 +1,4 @@
-### 💻 Hi there! I'm Hollis Brown, a student at Bay Valley Tech with a passion for Frontend, Backend, and Fullstack development. I enjoy expanding my skills in web development. Outside of coding, I have an interest in reading, delving into math, and exploring digital design.
+### 💻 Hi there! I'm Hollis Brown, a student at Bay Valley Tech with a passion for Frontend Web Development. Right now, I am learning intermediate JS and React.
 
 You can reach me at [LinkedIn](https://www.linkedin.com/in/hollis-brown-aaa854243/) or follow me on [Twitter](https://twitter.com/_misterFriend_).
 
