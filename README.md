@@ -1,1 +1,1 @@
-### 💻 Hi there! I'm Hollis Brown, a student at Bay Valley Tech with a passion for Web Development. Right now, I am learning intermediate JS and React. 
+### 💻 Hi there! I'm Hollis, a student at Bay Valley Tech Code Academy studying Web Development. Right now, I am learning React.js, SvelteKit, Tailwind, and many more UI libraries. I'm loving it!
