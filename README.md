@@ -1,1 +1,1 @@
-### 💻 Hi there! I'm Hollis, a graduate of Bay Valley Tech Code Academy studying Web Development. I learned React.js, SvelteKit, Node.js, Express.js, Tailwind, and many more UI libraries. Right now I'm building projects for my portfolio. I'm loving it!
+### 💻 Hi there! I'm Hollis, a graduate of Bay Valley Tech Code Academy studying Web Development. I learned React.js, SvelteKit, Node.js, Express.js, MySQL, Tailwind, and MUI. Right now I'm building projects for my portfolio. I'm loving it!
